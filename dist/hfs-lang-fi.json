@@ -1,5 +1,6 @@
 {
     "translate": {
-        "switchtohttps": "Tämä sivu on tällä hetkellä ladattu HTTP:n kautta. Haluatko vaihtaa HTTPS?"
+        "switchtohttps": "Tämä sivu on tällä hetkellä ladattu HTTP:n kautta. Haluatko vaihtaa HTTPS?",
+        "continueanyway": "Saatat joutua painamaan \"Lisäasetukset\" ja pienestä linkistä \"Jatka\""
     }
 }
