@@ -1,4 +1,4 @@
-exports.version = 2.01
+exports.version = 2.1
 exports.apiRequired = 8.65
 exports.repo = 'W-i-n-7/hfs-askhttps'
 exports.description = "Kindly prompts the user to switch to HTTPS when they are using HTTP"
